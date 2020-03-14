@@ -1,2 +1,5 @@
 settings.py
 *.pyc
+bin/
+lib/
+share/
