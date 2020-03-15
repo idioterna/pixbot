@@ -3,3 +3,6 @@ settings.py
 bin/
 lib/
 share/
+*.cert
+*.crt
+*.key
