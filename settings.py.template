@@ -1,0 +1,6 @@
+TOKEN='123:ABC' # telegram bot token
+CERTFILE='ssl.cert' # certificate file (can be self signed)
+PRIVKEYFILE='ssl.key' # private key file (chmod 600 this one)
+HOST='host.domain.tld' # hostname, should be equal to CN in the certificate above
+PORT=12345 # tcp port
+GALLERY_PUSH_URL='http://gallery.domain.tld/arglebargle.php' # where the photo url gets posted
